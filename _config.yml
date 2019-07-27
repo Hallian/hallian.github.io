@@ -1,7 +1,7 @@
 # Site
 title:              Halenstorm
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+bio:                'Fantastic things and musings'
+description:        "Fantastic things and musings"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -10,16 +10,16 @@ url: "" # the base hostname & protocol for your site
 disqus_shortname:   default
 
 # Social
-analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+analytics-id:       "GTM-KZSFGTQ"
+twitter:            NikolasLahtinen
+facebook:           nikolas.lahtinen
+instagram:          hallianthehallowed
+github:             Hallian
 
 # personal
-location:           Los Angeles, CA
+location:           Helsinki, Finland
 phone:              310-318-5555
-email:              info@default.com # change this to your email to receive free emails for your contact submissions via Slapform.com
+email:              info@halenstorm.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
 background_image:   /images/bg.jpg
